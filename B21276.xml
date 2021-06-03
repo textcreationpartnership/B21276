@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The distressed mother: or, sorrowful wife in tears: being a full and true account of a most horrid, barbarous and bloody murther, committed at Chatham, in the county of Kent, on Tuesday the 16th of this instant September, by one Mrs. Katherine Fox, a Gentlewoman, on the body of her own husband, and two children, by cutting their throats form ear to ear; with the manner of her apprehending and taking, examination and confession before the worshipful Justice Bourchier, and commitment to Maidstone goal for the same.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21276</idno><idno type="EEBO-CITATION">99886836</idno>
+  <idno type="VID">189506</idno>
+  <idno type="EEBO-PROQUEST">2248537524</idno>
+  
+            <idno type="STC">Wing D1703</idno>
+            <idno type="STC">Interim Tract Supplement Guide 515.l.2[12]</idno>
+            <idno type="STC">ESTC R226661</idno>
+            <idno type="PROQUEST">ocm99886836</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886836e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21276)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189506)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C17:1[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The distressed mother: or, sorrowful wife in tears: being a full and true account of a most horrid, barbarous and bloody murther, committed at Chatham, in the county of Kent, on Tuesday the 16th of this instant September, by one Mrs. Katherine Fox, a Gentlewoman, on the body of her own husband, and two children, by cutting their throats form ear to ear; with the manner of her apprehending and taking, examination and confession before the worshipful Justice Bourchier, and commitment to Maidstone goal for the same.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Beuvet near Billingsgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+               <term type="topical_term">Filicide --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:189506:1"/>
+            <pb facs="tcp:189506:1"/>
+            <head>The distressed Mother: OR, Sorrowful WIFE in TEARS:</head>
+            <argument>
+               <p>Being a full and true Account of a most horrid, barbarous and bloody MURTHER, committed at <hi>Chatham,</hi> in the County of <hi>Kent,</hi> on <hi>Tuesday</hi> the 16th of this instant <hi>September,</hi> by one Mrs. <hi>Katherine Fox,</hi> a Gentlewoman, on the Body of her own Hus<g ref="char:EOLhyphen"/>band, and two young Children, by cutting their Throats from Ear to Ear; with the manner of her Apprehending and Taking, Examination and Confession before the Worshipful Justice <hi>Bourchier,</hi> and Commitment to <hi>Maidstone</hi> Goal for the same.</p>
+            </argument>
+            <p>ONE Mr. <hi>Fox</hi> of a plentiful Estate formerly in <hi>Chatham</hi> in the County of <hi>Kent,</hi> but trhough riotous Living had consum'd it all in a few Years, insomuch that he was reduced to a very low Ebb of Fortune, but on <hi>Tuescay</hi> 6th of this instant <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> he went to a Publick House to drink with his old Cronies that had Ruin'd him, where being most vehemently incensed by loss and mischief, in so bitter and terrible a manner, did he Beat his poor Wife, who came to seek Relief from his hands, for her, and her poor Children, in the fight of his drunken Companions, that as he thought, he had left her Dead, and past Recovery.</p>
+            <p>This desolate Wretch at last returning to her self, and repairing back again to her to her sad sorrowful House, behold, two her young Babes, grievously oppressed with Hunger, with Tears in their Eyes, taught not to Speak by Age, but Misery, required and desired Sustenance of her; <hi>Mother,</hi> saith one, <hi>a little Food, or I die, Mam,</hi> saith the other, and with piercing Signs Speaks the rest, <hi>Alas! poor Babes,</hi> saith the Mother with bitter Sighs, <hi>Where shall I get it? Your Father hath lost his Patience, with his Wealth, and we our Hopes, with his Mishaps: Alas! alas! what shall become of me, or who shall succour you, my Children? Better it is to Die with one Stroke, than to languish in a continual Famine.</hi> So pressed by these Miseries, and brought to this Despair, she took a Knife in her Hand, and cut her Childrens Throats from Ear to Ear, setting her self down purposely to Die, and perish in her Sorrows.</p>
+            <p>Now her Husband returning Home the same Evening, laden with Wine, and more fit to take rest than examine these Tragedies, cast himself on his Bed, neither dream<g ref="char:EOLhyphen"/>ing on his Losses, nor her Miseries: Whereupon she being urged by her pressing Necessities, occasioned through his willful Extravagances, seeing him fast Asleep, who regarded not her Afflictions, with the same Knife wherewith she had Kill'd her Children, she cut his Throat, the cause of her Confusion; speaking likewise thus boldly during the time of her Execution: <hi>Thou shalt Die, thou negligent Man, since thy ill Government hath been the Ruine of me and my Children.</hi>
+            </p>
+            <p>But Day and Time discovering these Murders, Mrs. <hi>Katherine Fox,</hi> was on <hi>Wednesday</hi> Morning, being the 17th instant, Apprehended by some of her Neighbours, and being charged with a Constable, she was carried before the Worshipful Justice <hi>Bourchier,</hi> by whom be<g ref="char:EOLhyphen"/>ing Examin'd, she confessed the bloody Fact; upon which she was committed to <hi>Maidston</hi> Goal, in order to take her Tryal for the same the next Assizes; and whither she went with much Constancy, giv<g ref="char:EOLhyphen"/>ing all the way she was going to Prison wholesome Admonitions to the numerous Spectators, which tended, <hi>That Wives should beware of too much Fury, and Husbands to be more circumspect in their Families.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>J. Beuvet</hi> near <hi>Billingsgate.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
